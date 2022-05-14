@@ -4,7 +4,8 @@
 - 블로그: https://minisk220.tistory.com/
 - 깃헙: https://github.com/minseok220
 
-![minseok220 profile](http://minseok220.herokuapp.com/api?handle={handle}&theme=dark)
+![](https://github.com/minseok220/minseok220-2022/raw/main/github-metrics-serithemage.svg)
+
 
 ## Summary
 > 졸업 후 1년 이내에 프론트엔드 개발자
