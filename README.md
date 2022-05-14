@@ -4,7 +4,7 @@
 - 블로그: https://minisk220.tistory.com/
 - 깃헙: https://github.com/minseok220
 
-![](https://github.com/minseok220/minseok220-2022/raw/main/github-metrics-serithemage.svg)
+![](https://github.com/minseok220/minseok220/raw/main/github-metrics-serithemage.svg)
 
 
 ## Summary
