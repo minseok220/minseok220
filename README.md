@@ -3,7 +3,6 @@
 - 이메일: alsehf0220@gmail.com
 - 블로그: https://minisk220.tistory.com/
 - 깃헙: https://github.com/minseok220
-
 ![](https://github.com/minseok220/minseok220/raw/main/github-metrics-serithemage.svg)
 
 
